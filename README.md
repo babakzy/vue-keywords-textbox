@@ -1,4 +1,7 @@
-# vue-train
+# Vue Keywords Text Input
+### A simple text input for entering keywords with vue
+![ScreenShot](https://github.com/babakzy/vue-keywords-textbox/raw/main/Capture.JPG)
+
 
 ## Project setup
 ```
